@@ -1,0 +1,28 @@
+  hyp_1: hyp_1 {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(LC(LA(LG(KP_N1))))>;
+    label = "HYP_1";
+  };
+
+  hyp_2: hyp_2 {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(LC(LA(LG(KP_N2))))>;
+    label = "HYP_2";
+  };
+
+  hyp_3: hyp_3 {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(LC(LA(LG(KP_N3))))>;
+    label = "HYP_3";
+  };
+
+  hyp_4: hyp_4 {
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+    bindings = <&kp LS(LC(LA(LG(KP_N4))))>;
+    label = "HYP_4";
+  };
+
